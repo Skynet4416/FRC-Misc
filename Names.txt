@@ -1,1 +1,38 @@
-Yoni R.,Pit Crew
+J. Kimel--Drive Crew
+J. Kalisch--Spokesperson
+Ofek R.--Safety Captain
+Eyal B.--Scout
+Eyal K.--Spokesperson
+Itay A.--Scout
+Elad E.--Media
+Elad A.--Scout
+Asaf B.--Pit Crew
+Sapir B.--Head Scout
+Itai B.--Drive Crew
+Itay B.--Scout
+Stav G.--Pit Crew
+Dana K.--Spokesperson
+Nir H.--Technician
+Tal Z.--Scout
+Tom K.--Scout
+Yuval Z.--Inventory
+Lavi T.--Media
+Royi L.--Scout
+Michael L.--Scout
+Ilay L.--Scout
+Uri M.--Data Analyst
+Mika G.--Scout
+Boaz S.--Media
+Ron M.--Scout
+Roy Z.--Spokesperson
+Yoni R.--Captain
+Sean L.--Cheerleader
+Adam S.--Main Cheerleader
+Niv S.--Coach
+Tamir C.--Scout
+Yotam C.--Scout
+Tom G.--Human Player
+Assaf R.--Head Mentor
+Yuval S.--Head Mentor
+Gadi G.--Mentor
+Gal S.--Mentor
